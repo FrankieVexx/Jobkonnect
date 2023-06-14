@@ -57,6 +57,4 @@ The application can be deployed on a cloud platform like AWS, Google Cloud Platf
 
 # Project Images
 
-<a ahref="https://paste.pics/08e962c8659fd761a183d632cff06fd6">
-<img src="static/images/Landingpage.png" alt="Project landing page"
-![Alt text](static/images/Landingpage.png)
+![landingpage](static/images/Landingpage.png)
